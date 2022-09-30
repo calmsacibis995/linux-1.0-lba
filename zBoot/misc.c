@@ -329,6 +329,8 @@ void decompress_kernel()
 	puts("done.\n");
 
 	puts("Now booting the kernel\n");
+	
+	puts("Linux 1.0 with LBA support by NCommander\n");
 }
 
 /* ========================================================================
